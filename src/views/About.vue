@@ -28,6 +28,7 @@ export default {
 </script>
 <style scoped>
 .active {
-  background-color: yellow;
+  background-color: blue;
+  color: white;
 }
 </style>
